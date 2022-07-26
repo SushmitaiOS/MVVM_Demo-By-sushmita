@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "IBAnimatable",
+        "repositoryURL": "https://github.com/IBAnimatable/IBAnimatable.git",
+        "state": {
+          "branch": "master",
+          "revision": "c5bce0d977c9a9b1f98f54577703894bc8efa339",
+          "version": null
+        }
+      },
+      {
+        "package": "JGProgressHUD",
+        "repositoryURL": "https://github.com/JonasGessner/JGProgressHUD.git",
+        "state": {
+          "branch": "master",
+          "revision": "103d67f308b8c0c18926061025549af98cdfd6fc",
+          "version": null
+        }
+      },
+      {
+        "package": "Loaf",
+        "repositoryURL": "https://github.com/schmidyy/Loaf.git",
+        "state": {
+          "branch": "master",
+          "revision": "ce8059a0c484f4ddf3bc63eb094a2ae7b4d4d0f7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
